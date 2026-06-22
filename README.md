@@ -1,15 +1,15 @@
 ### Hi, I'm Primula 👋
 
 🎓 Data Science @ UC Berkeley (expected May 2027)
-🔬 Interested in **NLP**, **Speech AI**, and **Text-to-Speech (TTS)**
-🌱 Currently studying SQL, statistics, and LLM internals
+🔬 Interested in machine learning, data analysis, and building data-driven projects
+🌱 Currently studying SQL, statistics, and machine learning
 📫 Open to **Data Science / Data Analyst** internships
 
 ---
 
 ### 🔭 Featured Project
 
-**[Spam Classifier](https://github.com/thtjs0076/spam-classifier)** — Email spam detection on the Enron dataset (~33K emails)
+**[Spam Classifier](https://github.com/thtjs0076/spam-classifier)** — Text classification on the Enron email dataset (~33K emails)
 
 - Compared Baseline LR, TF-IDF + LR, and fine-tuned DistilBERT
 - Best F1: **0.9927** (DistilBERT), with a latency vs. accuracy trade-off analysis
@@ -26,7 +26,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
 
 ---
 
