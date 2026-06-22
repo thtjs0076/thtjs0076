@@ -1,7 +1,7 @@
-### Hi, I'm Primula 👋
+### Hi, I'm Sosun Yim👋
 
 🎓 Data Science @ UC Berkeley (expected May 2027)
-🔬 Interested in machine learning, data analysis, and building data-driven projects
+🔬 Interested in Machine learning,Data analysis,and building data-driven projects
 🌱 Currently studying SQL, statistics, and machine learning
 📫 Open to **Data Science / Data Analyst** internships
 
