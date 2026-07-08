@@ -31,7 +31,6 @@
 ---
 
 ### 📊 GitHub Stats
+[![Primula's GitHub stats](https://github-readme-stats.vercel.app/api?username=thtjs0076&show_icons=true&theme=tokyonight)](https://github.com/thtjs0076)
 
-![Primula's GitHub stats](https://github-readme-stats.vercel.app/api?username=thtjs0076&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thtjs0076&layout=compact&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thtjs0076&layout=compact&theme=tokyonight)](https://github.com/thtjs0076)
