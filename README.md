@@ -1,36 +1,144 @@
-### Hi, I'm Sosun Yim👋
+<h1 align="center">Hi 👋, I'm Sosun (Primula) Yim</h1>
 
-🎓 Data Science @ UC Berkeley (expected May 2027)
-🔬 Interested in Machine learning,Data analysis,and building data-driven projects
-🌱 Currently studying SQL, statistics, and machine learning
-📫 Open to **Data Science / Data Analyst** internships
+<p align="center">
+<b>Data Science Student @ UC Berkeley</b><br>
+Machine Learning • NLP • Data Analytics • Backend Development
+</p>
 
----
+<p align="center">
+<a href="mailto:thtjs0076@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-### 🔭 Featured Project
+<a href="https://github.com/thtjs0076">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-**[Spam Classifier](https://github.com/thtjs0076/spam-classifier)** — Text classification on the Enron email dataset (~33K emails)
+<a href="https://www.linkedin.com/in/sosun-yim-1a1533201">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
 
-- Compared Baseline LR, TF-IDF + LR, and fine-tuned DistilBERT
-- Best F1: **0.9927** (DistilBERT), with a latency vs. accuracy trade-off analysis
-- Investigated 9.6% duplicate data as a potential leakage source and re-validated results
-
----
-
-### 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=thtjs0076&style=for-the-badge"/>
+</p>
 
 ---
 
-### 📊 GitHub Stats
-[![Primula's GitHub stats](https://github-readme-stats.vercel.app/api?username=thtjs0076&show_icons=true&theme=tokyonight)](https://github.com/thtjs0076)
+## 👋 About Me
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thtjs0076&layout=compact&theme=tokyonight)](https://github.com/thtjs0076)
+I'm a Data Science student at **UC Berkeley** passionate about building practical AI systems that solve real-world problems.
+
+My primary interests include:
+
+- 🤖 Machine Learning
+- 🧠 Natural Language Processing (NLP)
+- 📊 Data Analytics
+- 💻 Backend Development
+
+I enjoy understanding data, building machine learning models, and making engineering decisions that balance **accuracy, scalability, and real-world deployment**.
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,mysql"/>
+</p>
+
+### Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch"/>
+</p>
+
+- Scikit-learn
+- Hugging Face Transformers
+- Pandas
+- NumPy
+- Matplotlib
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker"/>
+</p>
+
+- Jupyter Notebook
+
+---
+
+## 🚀 Featured Projects
+
+### 📧 Spam Classifier
+
+Compared **Logistic Regression** and **DistilBERT** on **33K+ emails** to evaluate the tradeoff between predictive performance and deployment efficiency.
+
+**Tech Stack**
+
+`Python` `Scikit-learn` `Transformers` `Pandas`
+
+🔗 https://github.com/thtjs0076/spam-classifier
+
+---
+
+### 🌍 Multilingual TTS Router
+
+Built a character-level language identification model using **PyTorch** and rebuilt it into a multilingual Text-to-Speech routing pipeline.
+
+**Tech Stack**
+
+`Python` `PyTorch` `NLP`
+
+🔗 https://github.com/thtjs0076/multilingual-tts-router
+
+---
+
+### 📈 A/B Test Analysis
+
+Performed an end-to-end A/B testing analysis to determine whether an observed lift was statistically significant and ready for production.
+
+**Tech Stack**
+
+`Python` `Statistics` `Experimentation`
+
+🔗 https://github.com/thtjs0076/ab-test-analysis
+
+---
+
+### 🤖 Reinforcement Learning
+
+Implemented **Value Iteration** and **Q-Learning** from scratch in a custom Gridworld environment.
+
+**Tech Stack**
+
+`Python` `Reinforcement Learning`
+
+🔗 https://github.com/thtjs0076/rl-gridworld-qlearning
+
+---
+
+## 🌱 Currently Learning
+
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- MLOps
+- Production Machine Learning
+
+---
+
+## 📫 Connect
+
+📧 **Email**
+
+thtjs0076@gmail.com
+
+💻 **GitHub**
+
+https://github.com/thtjs0076
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/sosun-yim-1a1533201
