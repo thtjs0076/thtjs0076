@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sosun Yim (Primula) </h1>
+<h1 align="center">Hello, I'm Sosun Yim (Primula) </h1>
 
 <p align="center">
 <b>Data Science Student @ UC Berkeley</b><br>
@@ -35,6 +35,7 @@ My primary interests include:
 - 🧠 Natural Language Processing (NLP)
 - 📊 Data Analytics
 - 💻 Backend Development
+- 💁🏻 Data Scientist
 
 I enjoy understanding data, building machine learning models, and making engineering decisions that balance **accuracy, scalability, and real-world deployment**.
 
