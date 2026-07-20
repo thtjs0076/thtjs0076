@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Sosun (Primula) Yim</h1>
+<h1 align="center">Hi 👋, I'm Sosun Yim (Primula) </h1>
 
 <p align="center">
 <b>Data Science Student @ UC Berkeley</b><br>
-Machine Learning • NLP • Data Analytics • Backend Development
+Data Scientist • NLP • Data Analytics • Backend Development
 </p>
 
 <p align="center">
